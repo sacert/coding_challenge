@@ -10,6 +10,7 @@ redis (brew install redis if on MacOS)
 
 Running the application:
 ```
+python -c 'from app import db; db.create_all()' // to create the db
 python app.py
 ```
 
