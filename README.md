@@ -1,5 +1,7 @@
 Wrote using Python 3.7 and Flask 1.1.1
 
+Databases used: sqlite3 and redis
+
 Install Dependencies:
 
 ```
